@@ -66,7 +66,8 @@ graph TD
 
 ### 1. Clone and Navigate
 ```bash
-cd conv-knowledge-bot
+git clone https://github.com/suryansh-sr-17/knowbuddy.git
+cd knowbuddy
 ```
 
 ### 2. Create Virtual Environment
