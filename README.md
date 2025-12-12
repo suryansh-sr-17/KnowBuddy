@@ -1,7 +1,7 @@
 # 🚀 KnowBuddy 🌐
-# 🤔 Who knows the answer? KnowBuddy does! ✨
+## 🤔 Who knows the answer? "KnowBuddy" does! ✨
 
-## "😎 HaHa !!!.... Get it ? KnowBuddy <--> NOBODY ?!?! Lame but works ig... 😑"
+### "😎 HaHa !!!.... Get it ? KnowBuddy <--> NOBODY ?!?! Lame but works ig... 😑"
 
 A powerful local Streamlit chat application built with **LangChain** and **Groq**, featuring a multi-tool agent that intelligently selects between Google Search (Serper), Wikipedia, Document RAG, and Memory to recall conversation context.
 
